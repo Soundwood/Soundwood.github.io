@@ -1,11 +1,11 @@
 # Site settings
-author: Ben Hogan
-title: 
+author: Ben
+title: Soundwood Blog
 header-img: img/home-bg.png
 email: j.benhogan@gmail.com
-copyright_name: Ben Hogan
+copyright_name: Ben
 description: > # this means to ignore newlines until "baseurl:"
-  
+  First Prompt
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Soundwood
